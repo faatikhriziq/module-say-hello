@@ -1,8 +1,8 @@
 package modulesayhello
 
-func SayPerson(name string) string {
+func SayPerson() string {
 
-	return "Hallo" + name + "Kenalan yuk"
+	return "Hallo Kenalan yuk"
 
 }
 
